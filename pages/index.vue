@@ -47,8 +47,11 @@
     <div class="columns is-centered mx-4">
       <div class="column  is-three-quarters">
         <div class="box">
-          <p class="has-text-centered is-size-4 has-text-weight-bold mt-4">خواص پنیر لیقوان</p>
-          <p class="has-text-right is-size-6 line-height-description my-6">
+          <p class="has-text-centered is-size-4 has-text-weight-bold mt-4 has-background-white-ter py-1 around-the-title">خواص پنیر لیقوان</p>
+          <div class="has-text-centered mt-5">
+            <img src="shakhe.png" alt="">
+          </div>
+          <p class="has-text-right is-size-6 line-height-description mt-4 mb-6">
 
             پنیر از شیر گاو یا گاوهایی که در منطقه پرورش داده می‌شوند، تهیه می‌شود و دارای طعم و مزه خاصی است. آنچه پنیر
             لیقوان را از دیگر انواع پنیرها متمایز می‌کند، طعم غنی و ملایم آن است که به دلیل شرایط آب و هوایی و مراتع غنی
@@ -98,8 +101,11 @@
     <div class="columns is-centered mx-4">
       <div class="column  is-three-quarters">
         <div class="box">
-          <p class="has-text-centered is-size-4 has-text-weight-bold mt-4">خواص پنیر شاهی</p>
-          <p class="has-text-right is-size-6 my-6 line-height-description">
+          <p class="has-text-centered is-size-4 has-text-weight-bold mt-4 has-background-white-ter py-1 around-the-title">خواص پنیر شاهی</p>
+          <div class="has-text-centered mt-5">
+            <img src="shakhe.png" alt="">
+          </div>
+          <p class="has-text-right is-size-6 line-height-description mt-4 mb-6">
 
             پنیر شاهی یکی از نوع‌های محبوب پنیر در ایران است که از شیر گاو یا گاوهای محلی تولید می‌شود. این پنیر
             اصلی‌ترین محصول لبنی استان خراسان رضوی است و به دلیل ویژگی‌های خاص خود محبوبیت زیادی در بین مردم دارد. پنیر
